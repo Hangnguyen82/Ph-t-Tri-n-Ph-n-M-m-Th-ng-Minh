@@ -1,0 +1,3 @@
+MSSV|Tên sinh viên|Mã lớp|Ngày sinh|Giới tính|CMND
+123456|Nguyễn Thị Hằng|12DHTH02|08/02/2003|Nữ|215592377
+093183|Nguyễn Chí Công|12DHTH03|08/02/2003|Nam|21559235
